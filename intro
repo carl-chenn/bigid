@@ -1,0 +1,5 @@
+Data discovery and mapping refer to the process of identifying and cataloging all of the data assets that an organization possesses, as well as their locations and relationships to one another.  It involves locating all data sources, whether structured or unstructured, such as databases, file systems, cloud services, or other repositories, and documenting their properties, such as the data type, format, schema, and metadata.
+
+Data discovery is the first step in understanding and managing data assets.  It is an essential part of data governance and data management strategies as it helps organizations identify where data is located, how it is being used, and who has access to it.  This process is crucial for ensuring data quality, compliance with data protection regulations, and reducing the risk of data breaches.
+
+Data mapping, on the other hand, involves creating a data inventory or a data map that captures the relationships between different data assets.  The data map illustrates how data flows through the organization, identifying data sources, storage, and data usage.  It also includes information on data ownership, data lineage, and data access controls.
